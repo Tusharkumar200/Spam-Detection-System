@@ -1,0 +1,3 @@
+To run this program 
+type:
+ streamlit run spam_detection_system.py  
